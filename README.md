@@ -18,7 +18,7 @@ Instead of relying on tests, this lab is _deliverable driven_. You will be
 responsible for ensuring that your solution works as intended by testing the
 behavior in the browser.
 
-1. Fork and clone this repository
+1. Fork and clone this repository!
 2. Open `index.html` in Chrome
 3. Put your JavaScript knowledge to the test and work your way through the
    deliverables
